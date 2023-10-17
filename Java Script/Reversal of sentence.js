@@ -12,7 +12,7 @@ function reverseWords(sentence) {
     return reversedSentence;
 }
 
-let inputSentence = "This is a sunny day";
+let inputSentence = "The girl dressed so beautiful";
 let reversedResult = reverseWords(inputSentence);
 
 console.log(reversedResult); 
